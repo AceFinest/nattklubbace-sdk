@@ -21,10 +21,13 @@
   line-height: normal;
 }
 
+<<<<<<< HEAD
 .td.player .controls, .td.player .buttons{
   width: 100%;
 }
 
+=======
+>>>>>>> parent of 5fc345b... small css fix
 .td.player .controls div {
 display: inline-block;
 text-align: center;
